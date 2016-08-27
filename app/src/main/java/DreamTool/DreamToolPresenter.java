@@ -1,4 +1,4 @@
-package DreamTool;
+package dreamtool;
 
 public class DreamToolPresenter {
     private DreamToolView mView;

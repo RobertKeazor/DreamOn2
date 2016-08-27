@@ -18,7 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="DreamTool.DreamTool" >
+        <activity android:name="dreamtool.DreamTool" >
         </activity>
     </application>
 

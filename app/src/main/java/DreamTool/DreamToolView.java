@@ -1,4 +1,4 @@
-package DreamTool;
+package dreamtool;
 
 public interface DreamToolView {
 
