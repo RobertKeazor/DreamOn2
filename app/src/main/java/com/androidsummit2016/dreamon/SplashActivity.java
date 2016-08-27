@@ -47,13 +47,13 @@ public class SplashActivity extends Activity {
 
             @Override
             public void run() {
-                Intent splashIntent = new Intent(SplashActivity.this, MainActivity.class);
+                Intent splashIntent = new Intent(SplashActivity.this, LoginActivity.class);
                 startActivity(splashIntent);
 
                 // close this activity
                 finish();
             }
-        }, 5 * 1000); // wait for 5 seconds
+        }, 3 * 1000); // wait for 5 seconds
     }
 
 }
